@@ -5,86 +5,86 @@ body {
     background-color: #eeedf0;
     color: #030303;
     body {
-        font-size: 16px;
+    font-size: 16px;
     }
-  }
-  
-  header {
-    background-color: #5a50eb;
+    }
+    
+    header {
+    background-color: #0f03ba;
     color: rgb(245, 242, 242);
     text-align: center;
     padding: 60/* Estilo Geral */
-px 20px;
-  }
-  
-  h1 {
+    px 20px;
+    }
+    
+    h1 {
     font-size: 3em;
     margin-bottom: 10px;
-  }
-  
-  header p {
+    }
+    
+    header p {
     font-size: 1.2em;
-  }
-  
-  /* Seção de Foto dos Alunos */
-  .foto-alunos {
+    }
+    
+    /* Seção de Foto dos Alunos */
+    .foto-alunos {
     text-align: center;
     margin: 20px 0;
-  }
-  
-  .foto-alunos img {
+    }
+    
+    .foto-alunos img {
     max-width: 100%;
     height: auto;
     border-radius: 10px;
     border: 5px solid #f9faf1;
-  }
-  
-  /* Navegação */
-  nav {
-    background-color: #f0d909;
-  }
-  
-  nav ul {
+    }
+    
+    /* Navegação */
+    nav {
+    background-color: #0f03ba;
+    }
+    
+    nav ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     display: flex;
     justify-content: center;
-  }
-  
-  nav li {
+    }
+    
+    nav li {
     margin: 0;
-  }
-  
-  nav a {
+    }
+    
+    nav a {
     text-decoration: none;
     color: white;
     padding: 15px 20px;
     display: block;
     transition: background-color 0.3s;
-  }
-  
-  nav a:hover {
-    background-color: #45a049;
-  }
-  
-  /* Conteúdo Principal */
-  section {
+    }
+    
+    nav a:hover {
+    background-color: #07025f;
+    }
+    
+    /* Conteúdo Principal */
+    section {
     padding: 40px;
     text-align: center;
-  }
-  
-  /* Rodapé */
-  footer {
-    background-color: #333;
+    }
+    
+    /* Rodapé */
+    footer {
+    background-color: #3a3a3a;
     color: white;
     text-align: center;
     padding: 10px 0;
-  }
-  .logo {
+    }
+    .logo {
     position: absolute;
     top: 10px; /* Distância do topo */
     right: 10px; /* Distância da direita */
     width: 100px; /* Ajuste o tamanho conforme necessário */
     height: auto; /* Mantém a proporção da imagem */
-}
+    }
